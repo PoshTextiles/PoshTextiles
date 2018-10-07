@@ -145,7 +145,7 @@ label, label + * {
 	clear: both;
 }
 .center-1 {
-	margin: 0 0 100px;
+	/*margin: 0 0 100px;*/
 }
 .center-2, .side-2 {
 	margin: 0 0 50px;

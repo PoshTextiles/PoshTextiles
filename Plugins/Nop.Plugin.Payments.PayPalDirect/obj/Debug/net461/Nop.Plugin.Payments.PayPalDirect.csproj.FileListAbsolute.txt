@@ -1,0 +1,14 @@
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\plugin.json
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\Configure.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentInfo.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\_ViewImports.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.csprojAssemblyReference.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.csproj.CoreCompileInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.AssemblyInfoInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.AssemblyInfo.cs
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.csproj.CopyComplete
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.pdb

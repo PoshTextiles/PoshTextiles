@@ -1,0 +1,15 @@
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\plugin.json
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\Configure.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_CountryStateZip.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_FixedRate.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_ViewImports.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\logo.jpg
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.csprojAssemblyReference.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.CoreCompileInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.AssemblyInfoInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.AssemblyInfo.cs
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.CopyComplete
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb

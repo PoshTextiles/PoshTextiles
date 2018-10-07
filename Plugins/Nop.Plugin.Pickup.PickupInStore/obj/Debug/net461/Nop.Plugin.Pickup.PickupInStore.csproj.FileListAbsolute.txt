@@ -1,0 +1,15 @@
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\plugin.json
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\logo.png
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Configure.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Create.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Edit.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_CreateOrUpdate.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_ViewImports.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.pdb
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\net461\Nop.Plugin.Pickup.PickupInStore.csproj.CoreCompileInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\net461\Nop.Plugin.Pickup.PickupInStore.AssemblyInfoInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\net461\Nop.Plugin.Pickup.PickupInStore.AssemblyInfo.cs
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\net461\Nop.Plugin.Pickup.PickupInStore.csproj.CopyComplete
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\net461\Nop.Plugin.Pickup.PickupInStore.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\net461\Nop.Plugin.Pickup.PickupInStore.pdb

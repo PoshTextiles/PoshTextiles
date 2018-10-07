@@ -1,0 +1,15 @@
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Square\Content\styles.css
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Square\plugin.json
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Square\Views\Configure.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Square\Views\PaymentInfo.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Square\Views\_ViewImports.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Square\logo.png
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.pdb
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.csprojAssemblyReference.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.csproj.CoreCompileInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.AssemblyInfoInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.AssemblyInfo.cs
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.csproj.CopyComplete
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\net461\Nop.Plugin.Payments.Square.pdb

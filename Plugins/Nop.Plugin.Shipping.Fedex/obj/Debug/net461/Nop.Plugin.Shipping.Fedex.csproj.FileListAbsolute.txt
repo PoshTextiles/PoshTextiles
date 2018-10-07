@@ -1,0 +1,13 @@
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.Fedex\plugin.json
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.Fedex\Views\Configure.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.Fedex\Views\_ViewImports.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.Fedex\logo.jpg
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.pdb
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.csprojAssemblyReference.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.csproj.CoreCompileInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.AssemblyInfoInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.AssemblyInfo.cs
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.csproj.CopyComplete
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\net461\Nop.Plugin.Shipping.Fedex.pdb

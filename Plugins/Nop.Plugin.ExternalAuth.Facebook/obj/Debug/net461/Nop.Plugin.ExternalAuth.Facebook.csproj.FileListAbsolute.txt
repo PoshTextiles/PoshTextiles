@@ -1,0 +1,16 @@
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\facebookstyles.css
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\Images\facebook-signing.png
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\plugin.json
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\Configure.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\PublicInfo.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\_ViewImports.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\logo.jpg
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\net461\Nop.Plugin.ExternalAuth.Facebook.csprojAssemblyReference.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\net461\Nop.Plugin.ExternalAuth.Facebook.csproj.CoreCompileInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\net461\Nop.Plugin.ExternalAuth.Facebook.AssemblyInfoInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\net461\Nop.Plugin.ExternalAuth.Facebook.AssemblyInfo.cs
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\net461\Nop.Plugin.ExternalAuth.Facebook.csproj.CopyComplete
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\net461\Nop.Plugin.ExternalAuth.Facebook.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\net461\Nop.Plugin.ExternalAuth.Facebook.pdb

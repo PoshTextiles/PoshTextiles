@@ -1,0 +1,17 @@
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\plugin.json
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\AddRateByWeightPopup.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\Configure.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\EditRateByWeightPopup.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_ByWeight.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_CreateOrUpdateRateByWeight.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_FixedRate.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_ViewImports.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\logo.jpg
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.pdb
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.csproj.CoreCompileInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.AssemblyInfoInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.AssemblyInfo.cs
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.csproj.CopyComplete
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\net461\Nop.Plugin.Shipping.FixedOrByWeight.pdb

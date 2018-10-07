@@ -1,0 +1,16 @@
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\plugin.json
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\Configure.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\PaymentInfo.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\_ViewImports.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\Customer\_CreateOrUpdate.Worldpay.cshtml
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\cards.jpg
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\logo.jpg
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.pdb
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\net461\Nop.Plugin.Payments.Worldpay.csprojAssemblyReference.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\net461\Nop.Plugin.Payments.Worldpay.csproj.CoreCompileInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\net461\Nop.Plugin.Payments.Worldpay.AssemblyInfoInputs.cache
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\net461\Nop.Plugin.Payments.Worldpay.AssemblyInfo.cs
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\net461\Nop.Plugin.Payments.Worldpay.csproj.CopyComplete
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\net461\Nop.Plugin.Payments.Worldpay.dll
+E:\Project\Posh Textiles\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\net461\Nop.Plugin.Payments.Worldpay.pdb
